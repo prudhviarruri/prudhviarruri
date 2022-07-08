@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Prudhvi
+- 👀 I’m interested in software devlopment.
+- 🌱 I’m currently learning Python and basics of ethical hacking
+- 💞️ I’m looking to collaborate on infosys.
+- 📫 Contact me: arruriprudhvi@gmail.com
